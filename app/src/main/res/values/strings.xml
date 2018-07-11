@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VKFriends</string>
+    <string name="com_vk_sdk_ApiVersion">5.80</string>
+    <integer name="com_vk_sdk_AppId">6617140</integer>
+</resources>
